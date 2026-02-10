@@ -1,6 +1,6 @@
 # 🛡️ Bruno Braga | Cybersecurity Analyst (SOC)
 
-Olá! [cite_start]Sou um profissional de Segurança da Informação focado em **Blue Team** e **Operações de Segurança (SOC)**[cite: 18]. [cite_start]Atualmente, atuo na **Claranet** monitorando ameaças em larga escala e garantindo a resiliência de ambientes críticos[cite: 17, 19]. 
+Olá! Sou um profissional de Segurança da Informação focado em **Blue Team** e **Operações de Segurança (SOC)**[cite: 18]. [cite_start]Atualmente, atuo na **Claranet** monitorando ameaças em larga escala e garantindo a resiliência de ambientes críticos[cite: 17, 19]. 
 
 [cite_start]Paralelamente, aprofundo meus estudos em **Pentest** e **Segurança Ofensiva** para entender a mente do atacante e aprimorar as estratégias de defesa[cite: 47, 61].
 
