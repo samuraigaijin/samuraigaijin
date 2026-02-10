@@ -39,6 +39,10 @@ Utilizo linguagens de programação exclusivamente para automação de tarefas d
 ### 📫 Conecte-se comigo
 * 📧 **E-mail:** bruno.bradley@proton.me
 * 💼 **LinkedIn:** [/in/brunod3vs/](https://linkedin.com/in/brunod3vs/)
+<a href="https://tryhackme.com/p/samuraigaijin">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/samuraigaijin.png" alt="TryHackMe Profile Badge">
+</a>
+
 
 ---
 *"Si vis pacem, para bellum"*
