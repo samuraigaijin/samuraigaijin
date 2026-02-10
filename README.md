@@ -39,7 +39,6 @@ Utilizo linguagens de programação exclusivamente para automação de tarefas d
 ### 📫 Conecte-se comigo
 * 📧 **E-mail:** bruno.bradley@proton.me
 * 💼 **LinkedIn:** [/in/brunod3vs/](https://linkedin.com/in/brunod3vs/)
-* 🌐 **Portfolio:** [brunod3v.vercel.app](https://brunod3v.vercel.app/)
 
 ---
 *"Si vis pacem, para bellum"*
